@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>CSIRO Test 3</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>68c2d631-206f-4bf3-b7a4-fe79a77aeb2c</testCaseGuid>
+   <testCaseGuid>5113c62e-41b8-4017-b818-f80835f8b8ce</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2 Digit Token</name>
+   <tag></tag>
+   <elementGuidId>1455c72d-5c6a-4222-b1c7-526d771c01c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-testid = 'displaySign']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fui-Title1.fui-Text.___118tge5.fk6fouc.fccw675.f1ebx5kk.fl43uef.fpgzoln.f1w7gpdv.f6juhto.f1gl81tg.f2jf649</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;view&quot;)/div[1]/div[@class=&quot;___nmlkgx0 f17mccla fqcjy3b&quot;]/span[@class=&quot;fui-Title1 fui-Text ___118tge5 fk6fouc fccw675 f1ebx5kk fl43uef fpgzoln f1w7gpdv f6juhto f1gl81tg f2jf649&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;60&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d59888d1-7c0b-4bae-8e2d-2f4ccee83ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fui-Title1 fui-Text ___118tge5 fk6fouc fccw675 f1ebx5kk fl43uef fpgzoln f1w7gpdv f6juhto f1gl81tg f2jf649</value>
+      <webElementGuid>5a409e31-0c9c-4f7c-84ae-bc5fad442ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>60</value>
+      <webElementGuid>3601b4d0-fdbd-4a8e-8707-08885e9774b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[1]/div[@class=&quot;___nmlkgx0 f17mccla fqcjy3b&quot;]/span[@class=&quot;fui-Title1 fui-Text ___118tge5 fk6fouc fccw675 f1ebx5kk fl43uef fpgzoln f1w7gpdv f6juhto f1gl81tg f2jf649&quot;]</value>
+      <webElementGuid>19c7f571-16d2-459f-a653-a58dc276dd25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div[5]/span</value>
+      <webElementGuid>59954be2-e15d-4e3e-be4d-d85d0a35f5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check your Authenticator app'])[2]/following::span[1]</value>
+      <webElementGuid>8050bb59-2993-415d-a4ae-7fb178919e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pravinrajpaul@outlook.com'])[1]/following::span[1]</value>
+      <webElementGuid>c2ed2d3f-88ce-49bc-8b3a-86e38ebab5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select this number in the sign-in request on your Android.'])[1]/preceding::span[1]</value>
+      <webElementGuid>b7c96200-3673-4945-9edd-4df371e48840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other ways to sign in'])[1]/preceding::span[3]</value>
+      <webElementGuid>14ac550a-484f-4fac-840d-1bcb4170e3d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='60']/parent::*</value>
+      <webElementGuid>bf7d2065-2930-4caf-a8b5-1dafc4bdbd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span</value>
+      <webElementGuid>2e2729e5-d769-4182-96a7-a654eec5417f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

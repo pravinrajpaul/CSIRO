@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>App Start</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52411655-d822-4f8f-983b-01acc3513d83</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8225f684-c592-48eb-972a-661ff5e78f76</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8225f684-c592-48eb-972a-661ff5e78f76</id>
+      <masked>false</masked>
+      <name>twoDigitToken</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Email or phone number</name>
+   <tag></tag>
+   <elementGuidId>26bfdf13-e68d-4752-a366-7f8521e23ef5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div[2]/div/div/span/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.fui-Label.___9kur9g0.fk6fouc.fxc4j92.fkhj508.f1i3iumi.fxugw4r.f113hnb5.f1ahpp82.f10pi13n.f1g0x7ka.f7x41pl.f1qch9an.fruq291</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Email or phone number&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6ae20b7b-5ed6-4b89-a8d0-b190435a5e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>usernameEntry</value>
+      <webElementGuid>266349da-ff98-46df-b7ea-3e922faa6751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fui-Label ___9kur9g0 fk6fouc fxc4j92 fkhj508 f1i3iumi fxugw4r f113hnb5 f1ahpp82 f10pi13n f1g0x7ka f7x41pl f1qch9an fruq291</value>
+      <webElementGuid>c4a5840f-e2f8-4aad-865e-48bf64531aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email or phone number</value>
+      <webElementGuid>b2248f8a-819d-4f37-a056-054ccfa9e1f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[1]/div[@class=&quot;___1huiqlt fyym0d2&quot;]/div[@class=&quot;___ws5byb0 fly5x3f f10pi13n f53bijv f12k30xc f3x0buo fn2ma6v fliwn8f f1s504b f6yv9ux f1w24gdh fhts2vr f4ttsk fg9kklt fpz0if0&quot;]/div[@class=&quot;fui-Field ___shr7m30 f13qh94s fhmmv79&quot;]/span[@class=&quot;fui-Input r1oeeo9n ___p5lntn0 f1w5jphr fk6fouc fod5ikn figsok6 faaz57k fjuset5 f1eyhf9v f1f5gg8d fvcxoqz f1ub3y4t f1l4zc64 f1m52nbi f8vnjqi fz1etlk f1klwx88 f1hc16gm f1g0x7ka f1vdfbxk f1qch9an fy77jfu f1vtxj0l&quot;]/span[@class=&quot;fui-Input__contentBefore r1572tok ___xfmmu60 f16u2scb&quot;]/label[@class=&quot;fui-Label ___9kur9g0 fk6fouc fxc4j92 fkhj508 f1i3iumi fxugw4r f113hnb5 f1ahpp82 f10pi13n f1g0x7ka f7x41pl f1qch9an fruq291&quot;]</value>
+      <webElementGuid>a06f87b6-2aad-4a6b-aba7-78c703e902db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div[2]/div/div/span/span/label</value>
+      <webElementGuid>a4c253a7-c74f-497e-840b-6122bc7f0832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use your Microsoft account.'])[1]/following::label[1]</value>
+      <webElementGuid>58e5c909-68f0-4d8b-8735-0e23aa1a0258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[2]/following::label[1]</value>
+      <webElementGuid>a1c3bdba-c438-453b-b4df-2b2267ac545a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your username?'])[1]/preceding::label[1]</value>
+      <webElementGuid>849cd580-76b5-4df4-a899-28e33fe6f5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::label[1]</value>
+      <webElementGuid>27fa8594-346f-4d40-bd20-3d62225652c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email or phone number']/parent::*</value>
+      <webElementGuid>ebb29f99-3c84-45b9-9373-48501679e4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>17f62e27-fc5c-438f-95b1-0306bd91afd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

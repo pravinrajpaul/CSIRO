@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2 Digit Token Container</name>
+   <tag></tag>
+   <elementGuidId>3a647f86-98ef-4303-b3cc-bf1e05bfcbab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view']/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.___nmlkgx0.f17mccla.fqcjy3b</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-testid = 'displaySign']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;displaySign&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ce5a9b2d-7622-453f-8540-5fec805fb2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>___nmlkgx0 f17mccla fqcjy3b</value>
+      <webElementGuid>c0d1eae2-71e9-423b-bab7-4e5365b2d653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>displaySign</value>
+      <webElementGuid>1317c63a-f571-4968-bbd6-8d7ffe3d4c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>60</value>
+      <webElementGuid>0e81f304-bcde-4a4a-96be-be4a18a43461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view&quot;)/div[1]/div[@class=&quot;___nmlkgx0 f17mccla fqcjy3b&quot;]</value>
+      <webElementGuid>7ec41754-59b1-42a9-b3fa-704da1832cfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view']/div/div[5]</value>
+      <webElementGuid>eb1d9c05-fa47-48eb-bd21-f65eef18d2db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check your Authenticator app'])[2]/following::div[4]</value>
+      <webElementGuid>3670f6df-46a1-4cc4-98ab-fda05ad653c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pravinrajpaul@outlook.com'])[1]/following::div[6]</value>
+      <webElementGuid>7568228c-ce17-476c-95e0-cee90a7992ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select this number in the sign-in request on your Android.'])[1]/preceding::div[1]</value>
+      <webElementGuid>529925ab-811a-45fb-ab33-c8a67b6e5163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other ways to sign in'])[1]/preceding::div[2]</value>
+      <webElementGuid>7aadf566-72b7-43a5-a92f-9cbd9aaded6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>a612ecc4-bf57-43a2-b3fe-1d9ca2277c08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

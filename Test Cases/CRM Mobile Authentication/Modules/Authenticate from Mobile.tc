@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Authenticate from Mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30105ffb-d2c9-4c98-b8ff-87ac1b121e2c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea80537d-8728-497c-a964-e65d5ad3111a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>65924d89-935b-48d6-aa9d-a4ba8ad94bd2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea80537d-8728-497c-a964-e65d5ad3111a</id>
+      <masked>false</masked>
+      <name>twoDigitPin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>65924d89-935b-48d6-aa9d-a4ba8ad94bd2</id>
+      <masked>false</masked>
+      <name>mobileUnlockPin</name>
+   </variable>
+</TestCaseEntity>
